@@ -19,9 +19,8 @@ body {
 }
 
 #left-paddle {
-  background-color: black;
+  background-color: white;
   left: 10px;
-  height: 25px;
 }
 
 #right-paddle {
@@ -85,7 +84,7 @@ body {
 }
 
 .score {
-  display: inline;
+  display: none;
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
   top: 0;
