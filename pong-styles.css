@@ -19,8 +19,8 @@ body {
 }
 
 #left-paddle {
-  background-color: white;
-  left: 100px;
+  background-color: black;
+  left: 10px;
 }
 
 #right-paddle {
