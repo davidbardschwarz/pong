@@ -25,6 +25,7 @@ body {
 
 #right-paddle {
   background: url('./little.jpg')
+  right: 30px;
 }
 
 #instructions {
