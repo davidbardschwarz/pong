@@ -24,8 +24,9 @@ body {
 }
 
 #right-paddle {
- background-color: yellow;
- right: 10px;
+  <img src= "https://github.com/davidbardschwarz/pong/main/little.jpg">
+      alt="centred-image"
+      style="width:50%">
 }
 
 #instructions {
