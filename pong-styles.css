@@ -24,7 +24,8 @@ body {
 }
 
 #right-paddle {
- display: little.jpg;
+ background-color: yellow;
+  right: 10px;
 }
 
 #instructions {
