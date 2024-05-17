@@ -24,7 +24,7 @@ body {
 }
 
 #right-paddle {
- "http://https://github.com/davidbardschwarz/pong/blob/main/little.jpg";
+ display: little.jpg;
 }
 
 #instructions {
